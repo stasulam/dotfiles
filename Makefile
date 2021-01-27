@@ -1,0 +1,2 @@
+update:
+	cp ~/.vimrc ./
